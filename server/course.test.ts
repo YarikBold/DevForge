@@ -1,0 +1,2 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {pythonCourse} from '../src/content.ts';
+test('published Python lessons contain beginner theory and three hints',()=>{const lessons=pythonCourse.flatMap(m=>m.lessons);assert.ok(lessons.length>=5);for(const l of lessons){assert.equal(l.stage,'published');assert.ok(l.goal.length>10&&l.theory.length>80);assert.equal(l.hints.length,3);assert.ok(l.example&&l.solution&&l.errors.length>0&&l.understanding.length>0)}});
