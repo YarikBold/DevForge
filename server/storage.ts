@@ -1,0 +1,2 @@
+import {DatabaseSync} from 'node:sqlite';
+export function storage(path:string){const db=new DatabaseSync(path);db.exec(`PRAGMA journal_mode=WAL; CREATE TABLE IF NOT EXISTS migrations(version INTEGER PRIMARY KEY); INSERT OR IGNORE INTO migrations VALUES(1); CREATE TABLE IF NOT EXISTS attempts(id INTEGER PRIMARY KEY, exercise TEXT NOT NULL, code TEXT NOT NULL, passed INTEGER NOT NULL, output TEXT NOT NULL, hints INTEGER NOT NULL, created TEXT DEFAULT CURRENT_TIMESTAMP); CREATE TABLE IF NOT EXISTS drafts(id TEXT PRIMARY KEY, code TEXT NOT NULL);`);return db;}

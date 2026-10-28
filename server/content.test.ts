@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {webTasks} from '../src/content.ts';
+test('web curriculum has unique actionable tasks',()=>{assert.ok(webTasks.length>=50);const ids=new Set(webTasks.map(x=>x.id));assert.equal(ids.size,webTasks.length);for(const task of webTasks){assert.ok(task.goal&&task.html!==undefined&&task.css!==undefined&&task.js!==undefined);assert.ok(task.tests.length>0);assert.ok(task.hint&&task.solution)}});
+test('web curriculum covers all three languages',()=>{for(const kind of ['html','css','javascript'] as const)assert.ok(webTasks.some(x=>x.kind===kind));});
