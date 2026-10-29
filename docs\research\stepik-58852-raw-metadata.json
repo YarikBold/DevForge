@@ -1,0 +1,791 @@
+[
+  {
+    "id": 265077,
+    "title": "Команды print() и input(), переменные",
+    "url": "https://stepik.org/lesson/265077/",
+    "unit_ids": [
+      246025
+    ],
+    "step_count": 25,
+    "first_step_id": 966851,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265079,
+    "title": "Целочисленная арифметика. Часть 1",
+    "url": "https://stepik.org/lesson/265079/",
+    "unit_ids": [
+      246027
+    ],
+    "step_count": 16,
+    "first_step_id": 876501,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265081,
+    "title": "Выбор из двух",
+    "url": "https://stepik.org/lesson/265081/",
+    "unit_ids": [
+      246029
+    ],
+    "step_count": 21,
+    "first_step_id": 876504,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265082,
+    "title": "Вложенные и каскадные условия",
+    "url": "https://stepik.org/lesson/265082/",
+    "unit_ids": [
+      246030
+    ],
+    "step_count": 23,
+    "first_step_id": 876509,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265083,
+    "title": "Логические операции",
+    "url": "https://stepik.org/lesson/265083/",
+    "unit_ids": [
+      246031
+    ],
+    "step_count": 23,
+    "first_step_id": 876511,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265105,
+    "title": "Числовые типы данных: int, float",
+    "url": "https://stepik.org/lesson/265105/",
+    "unit_ids": [
+      246053
+    ],
+    "step_count": 32,
+    "first_step_id": 876604,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265110,
+    "title": "Модуль math",
+    "url": "https://stepik.org/lesson/265110/",
+    "unit_ids": [
+      246058
+    ],
+    "step_count": 11,
+    "first_step_id": 876611,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265115,
+    "title": "Строковый тип данных",
+    "url": "https://stepik.org/lesson/265115/",
+    "unit_ids": [
+      246063
+    ],
+    "step_count": 24,
+    "first_step_id": 876618,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265118,
+    "title": "Цикл for",
+    "url": "https://stepik.org/lesson/265118/",
+    "unit_ids": [
+      246067
+    ],
+    "step_count": 22,
+    "first_step_id": 876647,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265120,
+    "title": "Цикл for: функция range",
+    "url": "https://stepik.org/lesson/265120/",
+    "unit_ids": [
+      246069
+    ],
+    "step_count": 19,
+    "first_step_id": 876652,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265121,
+    "title": "Цикл while",
+    "url": "https://stepik.org/lesson/265121/",
+    "unit_ids": [
+      246070
+    ],
+    "step_count": 26,
+    "first_step_id": 876653,
+    "status": "metadata-only"
+  },
+  {
+    "id": 265122,
+    "title": "Обработка цифр числа",
+    "url": "https://stepik.org/lesson/265122/",
+    "unit_ids": [
+      246071
+    ],
+    "step_count": 20,
+    "first_step_id": 876654,
+    "status": "metadata-only"
+  },
+  {
+    "id": 275252,
+    "title": "Параметры sep и end, PEP8",
+    "url": "https://stepik.org/lesson/275252/",
+    "unit_ids": [
+      256355
+    ],
+    "step_count": 21,
+    "first_step_id": 924112,
+    "status": "metadata-only"
+  },
+  {
+    "id": 284101,
+    "title": "Индексация",
+    "url": "https://stepik.org/lesson/284101/",
+    "unit_ids": [
+      265440
+    ],
+    "step_count": 17,
+    "first_step_id": 966104,
+    "status": "metadata-only"
+  },
+  {
+    "id": 284315,
+    "title": "Введение. Знакомство с Python",
+    "url": "https://stepik.org/lesson/284315/",
+    "unit_ids": [
+      265660
+    ],
+    "step_count": 10,
+    "first_step_id": 967059,
+    "status": "metadata-only"
+  },
+  {
+    "id": 284816,
+    "title": "Целочисленная арифметика. Часть 2",
+    "url": "https://stepik.org/lesson/284816/",
+    "unit_ids": [
+      266160
+    ],
+    "step_count": 26,
+    "first_step_id": 981134,
+    "status": "metadata-only"
+  },
+  {
+    "id": 287220,
+    "title": "Часть 1",
+    "url": "https://stepik.org/lesson/287220/",
+    "unit_ids": [
+      268605
+    ],
+    "step_count": 10,
+    "first_step_id": 1017595,
+    "status": "metadata-only"
+  },
+  {
+    "id": 290248,
+    "title": "О курсе",
+    "url": "https://stepik.org/lesson/290248/",
+    "unit_ids": [
+      271724
+    ],
+    "step_count": 13,
+    "first_step_id": 5652002,
+    "status": "metadata-only"
+  },
+  {
+    "id": 291000,
+    "title": "Часть 2",
+    "url": "https://stepik.org/lesson/291000/",
+    "unit_ids": [
+      272483
+    ],
+    "step_count": 4,
+    "first_step_id": 1010120,
+    "status": "metadata-only"
+  },
+  {
+    "id": 292172,
+    "title": "Задачи на программирование",
+    "url": "https://stepik.org/lesson/292172/",
+    "unit_ids": [
+      273659
+    ],
+    "step_count": 8,
+    "first_step_id": 1007288,
+    "status": "metadata-only"
+  },
+  {
+    "id": 294079,
+    "title": "Часть 1",
+    "url": "https://stepik.org/lesson/294079/",
+    "unit_ids": [
+      275758
+    ],
+    "step_count": 12,
+    "first_step_id": 1109815,
+    "status": "metadata-only"
+  },
+  {
+    "id": 294080,
+    "title": "Часть 2",
+    "url": "https://stepik.org/lesson/294080/",
+    "unit_ids": [
+      275759
+    ],
+    "step_count": 7,
+    "first_step_id": 1109825,
+    "status": "metadata-only"
+  },
+  {
+    "id": 294243,
+    "title": "Частые сценарии. Часть 2",
+    "url": "https://stepik.org/lesson/294243/",
+    "unit_ids": [
+      275922
+    ],
+    "step_count": 11,
+    "first_step_id": 1034477,
+    "status": "metadata-only"
+  },
+  {
+    "id": 296416,
+    "title": "Методы строк. Часть 1",
+    "url": "https://stepik.org/lesson/296416/",
+    "unit_ids": [
+      278136
+    ],
+    "step_count": 14,
+    "first_step_id": 1057830,
+    "status": "metadata-only"
+  },
+  {
+    "id": 296419,
+    "title": "Основы работы со списками",
+    "url": "https://stepik.org/lesson/296419/",
+    "unit_ids": [
+      278139
+    ],
+    "step_count": 27,
+    "first_step_id": 1026681,
+    "status": "metadata-only"
+  },
+  {
+    "id": 298794,
+    "title": "break, continue и else",
+    "url": "https://stepik.org/lesson/298794/",
+    "unit_ids": [
+      280621
+    ],
+    "step_count": 21,
+    "first_step_id": 1039637,
+    "status": "metadata-only"
+  },
+  {
+    "id": 298795,
+    "title": "Вложенные циклы. Часть 1",
+    "url": "https://stepik.org/lesson/298795/",
+    "unit_ids": [
+      280622
+    ],
+    "step_count": 19,
+    "first_step_id": 1055740,
+    "status": "metadata-only"
+  },
+  {
+    "id": 298796,
+    "title": "Вложенные циклы. Часть 2",
+    "url": "https://stepik.org/lesson/298796/",
+    "unit_ids": [
+      280623
+    ],
+    "step_count": 9,
+    "first_step_id": 1056217,
+    "status": "metadata-only"
+  },
+  {
+    "id": 302627,
+    "title": "Срезы",
+    "url": "https://stepik.org/lesson/302627/",
+    "unit_ids": [
+      284520
+    ],
+    "step_count": 15,
+    "first_step_id": 1056788,
+    "status": "metadata-only"
+  },
+  {
+    "id": 303083,
+    "title": "Методы строк. Часть 2",
+    "url": "https://stepik.org/lesson/303083/",
+    "unit_ids": [
+      284990
+    ],
+    "step_count": 16,
+    "first_step_id": 1059273,
+    "status": "metadata-only"
+  },
+  {
+    "id": 303084,
+    "title": "Методы строк. Часть 3",
+    "url": "https://stepik.org/lesson/303084/",
+    "unit_ids": [
+      284991
+    ],
+    "step_count": 12,
+    "first_step_id": 1059275,
+    "status": "metadata-only"
+  },
+  {
+    "id": 310445,
+    "title": "Сортировка списков",
+    "url": "https://stepik.org/lesson/310445/",
+    "unit_ids": [
+      292748
+    ],
+    "step_count": 10,
+    "first_step_id": 1178764,
+    "status": "metadata-only"
+  },
+  {
+    "id": 311433,
+    "title": "Поиск ошибок и ревью кода",
+    "url": "https://stepik.org/lesson/311433/",
+    "unit_ids": [
+      293861
+    ],
+    "step_count": 15,
+    "first_step_id": 1100814,
+    "status": "metadata-only"
+  },
+  {
+    "id": 313232,
+    "title": "Часть 1",
+    "url": "https://stepik.org/lesson/313232/",
+    "unit_ids": [
+      295749
+    ],
+    "step_count": 10,
+    "first_step_id": 1121055,
+    "status": "metadata-only"
+  },
+  {
+    "id": 313233,
+    "title": "Часть 2",
+    "url": "https://stepik.org/lesson/313233/",
+    "unit_ids": [
+      295750
+    ],
+    "step_count": 11,
+    "first_step_id": 1122186,
+    "status": "metadata-only"
+  },
+  {
+    "id": 313439,
+    "title": "Строки в памяти компьютера, таблица символов Unicode",
+    "url": "https://stepik.org/lesson/313439/",
+    "unit_ids": [
+      295959
+    ],
+    "step_count": 14,
+    "first_step_id": 1122234,
+    "status": "metadata-only"
+  },
+  {
+    "id": 324750,
+    "title": "Введение в списки",
+    "url": "https://stepik.org/lesson/324750/",
+    "unit_ids": [
+      307926
+    ],
+    "step_count": 16,
+    "first_step_id": 1158886,
+    "status": "metadata-only"
+  },
+  {
+    "id": 324754,
+    "title": "Методы списков. Часть 2",
+    "url": "https://stepik.org/lesson/324754/",
+    "unit_ids": [
+      307930
+    ],
+    "step_count": 28,
+    "first_step_id": 1180337,
+    "status": "metadata-only"
+  },
+  {
+    "id": 324755,
+    "title": "Методы строк: split(), join()",
+    "url": "https://stepik.org/lesson/324755/",
+    "unit_ids": [
+      307931
+    ],
+    "step_count": 18,
+    "first_step_id": 1180584,
+    "status": "metadata-only"
+  },
+  {
+    "id": 326725,
+    "title": "Списочные выражения",
+    "url": "https://stepik.org/lesson/326725/",
+    "unit_ids": [
+      310010
+    ],
+    "step_count": 22,
+    "first_step_id": 1166892,
+    "status": "metadata-only"
+  },
+  {
+    "id": 327207,
+    "title": "Методы списков. Часть 1",
+    "url": "https://stepik.org/lesson/327207/",
+    "unit_ids": [
+      310501
+    ],
+    "step_count": 23,
+    "first_step_id": 1169287,
+    "status": "metadata-only"
+  },
+  {
+    "id": 327220,
+    "title": "Часть 1",
+    "url": "https://stepik.org/lesson/327220/",
+    "unit_ids": [
+      310519
+    ],
+    "step_count": 15,
+    "first_step_id": 1169315,
+    "status": "metadata-only"
+  },
+  {
+    "id": 327221,
+    "title": "Часть 2",
+    "url": "https://stepik.org/lesson/327221/",
+    "unit_ids": [
+      310520
+    ],
+    "step_count": 6,
+    "first_step_id": 1169689,
+    "status": "metadata-only"
+  },
+  {
+    "id": 328948,
+    "title": "Вывод элементов списка",
+    "url": "https://stepik.org/lesson/328948/",
+    "unit_ids": [
+      312239
+    ],
+    "step_count": 19,
+    "first_step_id": 1183978,
+    "status": "metadata-only"
+  },
+  {
+    "id": 331750,
+    "title": "Функции без параметров",
+    "url": "https://stepik.org/lesson/331750/",
+    "unit_ids": [
+      315129
+    ],
+    "step_count": 15,
+    "first_step_id": 1195971,
+    "status": "metadata-only"
+  },
+  {
+    "id": 331753,
+    "title": "Локальные и глобальные переменные",
+    "url": "https://stepik.org/lesson/331753/",
+    "unit_ids": [
+      315132
+    ],
+    "step_count": 15,
+    "first_step_id": 1191578,
+    "status": "metadata-only"
+  },
+  {
+    "id": 331754,
+    "title": "Функции с возвратом значения. Часть 1",
+    "url": "https://stepik.org/lesson/331754/",
+    "unit_ids": [
+      315133
+    ],
+    "step_count": 24,
+    "first_step_id": 1198255,
+    "status": "metadata-only"
+  },
+  {
+    "id": 333525,
+    "title": "Функции с параметрами",
+    "url": "https://stepik.org/lesson/333525/",
+    "unit_ids": [
+      316953
+    ],
+    "step_count": 21,
+    "first_step_id": 1198211,
+    "status": "metadata-only"
+  },
+  {
+    "id": 334150,
+    "title": "Функции с возвратом значения. Часть 2",
+    "url": "https://stepik.org/lesson/334150/",
+    "unit_ids": [
+      317559
+    ],
+    "step_count": 13,
+    "first_step_id": 1221348,
+    "status": "metadata-only"
+  },
+  {
+    "id": 334152,
+    "title": "Задачи на программирование",
+    "url": "https://stepik.org/lesson/334152/",
+    "unit_ids": [
+      317561
+    ],
+    "step_count": 10,
+    "first_step_id": 1247400,
+    "status": "metadata-only"
+  },
+  {
+    "id": 334314,
+    "title": "Функции с возвратом значения. Часть 3",
+    "url": "https://stepik.org/lesson/334314/",
+    "unit_ids": [
+      317733
+    ],
+    "step_count": 10,
+    "first_step_id": 1202239,
+    "status": "metadata-only"
+  },
+  {
+    "id": 338530,
+    "title": "Модуль random",
+    "url": "https://stepik.org/lesson/338530/",
+    "unit_ids": [
+      322038
+    ],
+    "step_count": 15,
+    "first_step_id": 1222023,
+    "status": "metadata-only"
+  },
+  {
+    "id": 349845,
+    "title": "Числовая угадайка",
+    "url": "https://stepik.org/lesson/349845/",
+    "unit_ids": [
+      333700
+    ],
+    "step_count": 10,
+    "first_step_id": 1280592,
+    "status": "metadata-only"
+  },
+  {
+    "id": 349846,
+    "title": "Магический шар 8",
+    "url": "https://stepik.org/lesson/349846/",
+    "unit_ids": [
+      333701
+    ],
+    "step_count": 6,
+    "first_step_id": 1280593,
+    "status": "metadata-only"
+  },
+  {
+    "id": 349847,
+    "title": "Угадайка слов",
+    "url": "https://stepik.org/lesson/349847/",
+    "unit_ids": [
+      333702
+    ],
+    "step_count": 8,
+    "first_step_id": 1280594,
+    "status": "metadata-only"
+  },
+  {
+    "id": 349848,
+    "title": "Генератор безопасных паролей",
+    "url": "https://stepik.org/lesson/349848/",
+    "unit_ids": [
+      333703
+    ],
+    "step_count": 6,
+    "first_step_id": 1280595,
+    "status": "metadata-only"
+  },
+  {
+    "id": 349851,
+    "title": "Калькулятор систем счисления",
+    "url": "https://stepik.org/lesson/349851/",
+    "unit_ids": [
+      333706
+    ],
+    "step_count": 10,
+    "first_step_id": 1280598,
+    "status": "metadata-only"
+  },
+  {
+    "id": 352860,
+    "title": "Шифр Цезаря",
+    "url": "https://stepik.org/lesson/352860/",
+    "unit_ids": [
+      336821
+    ],
+    "step_count": 10,
+    "first_step_id": 1300078,
+    "status": "metadata-only"
+  },
+  {
+    "id": 363342,
+    "title": "Как проходить курс",
+    "url": "https://stepik.org/lesson/363342/",
+    "unit_ids": [
+      348083
+    ],
+    "step_count": 18,
+    "first_step_id": 1351416,
+    "status": "metadata-only"
+  },
+  {
+    "id": 363345,
+    "title": "Заключительный урок",
+    "url": "https://stepik.org/lesson/363345/",
+    "unit_ids": [
+      348085
+    ],
+    "step_count": 6,
+    "first_step_id": 1354968,
+    "status": "metadata-only"
+  },
+  {
+    "id": 363346,
+    "title": "О команде курса",
+    "url": "https://stepik.org/lesson/363346/",
+    "unit_ids": [
+      348086
+    ],
+    "step_count": 1,
+    "first_step_id": 1351455,
+    "status": "metadata-only"
+  },
+  {
+    "id": 982609,
+    "title": "Оглавление",
+    "url": "https://stepik.org/lesson/982609/",
+    "unit_ids": [
+      989881
+    ],
+    "step_count": 1,
+    "first_step_id": 4074113,
+    "status": "metadata-only"
+  },
+  {
+    "id": 1086413,
+    "title": "Для преподавателей и работы в группах",
+    "url": "https://stepik.org/lesson/1086413/",
+    "unit_ids": [
+      1096875
+    ],
+    "step_count": 1,
+    "first_step_id": 4517553,
+    "status": "metadata-only"
+  },
+  {
+    "id": 1209103,
+    "title": "Форматирование строк",
+    "url": "https://stepik.org/lesson/1209103/",
+    "unit_ids": [
+      1289613
+    ],
+    "step_count": 12,
+    "first_step_id": 5018255,
+    "status": "metadata-only"
+  },
+  {
+    "id": 1402735,
+    "title": "Сравнение строк",
+    "url": "https://stepik.org/lesson/1402735/",
+    "unit_ids": [
+      1419697
+    ],
+    "step_count": 17,
+    "first_step_id": 5821639,
+    "status": "metadata-only"
+  },
+  {
+    "id": 1602702,
+    "title": "Достижения курсов Поколения 🏆",
+    "url": "https://stepik.org/lesson/1602702/",
+    "unit_ids": [
+      2289642,
+      2289645,
+      2289644,
+      1624380,
+      2289639,
+      2346052,
+      2294012,
+      2289646
+    ],
+    "step_count": 1,
+    "first_step_id": 6623620,
+    "status": "metadata-only"
+  },
+  {
+    "id": 1987893,
+    "title": "Частые сценарии. Часть 1",
+    "url": "https://stepik.org/lesson/1987893/",
+    "unit_ids": [
+      2029448
+    ],
+    "step_count": 23,
+    "first_step_id": 8353529,
+    "status": "metadata-only"
+  },
+  {
+    "id": 2584819,
+    "title": "Об этом модуле",
+    "url": "https://stepik.org/lesson/2584819/",
+    "unit_ids": [
+      2627766,
+      2627769,
+      2624046,
+      2627772,
+      2627763
+    ],
+    "step_count": 0,
+    "first_step_id": null,
+    "status": "metadata-only"
+  },
+  {
+    "id": 2584820,
+    "title": "Python 3.14",
+    "url": "https://stepik.org/lesson/2584820/",
+    "unit_ids": [
+      2627767,
+      2627770,
+      2624047,
+      2627773,
+      2627764
+    ],
+    "step_count": 0,
+    "first_step_id": null,
+    "status": "metadata-only"
+  },
+  {
+    "id": 2584821,
+    "title": "Python 3.15",
+    "url": "https://stepik.org/lesson/2584821/",
+    "unit_ids": [
+      2627768,
+      2627771,
+      2624048,
+      2627774,
+      2627765
+    ],
+    "step_count": 0,
+    "first_step_id": null,
+    "status": "metadata-only"
+  }
+]
