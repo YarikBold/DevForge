@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('src/main.tsx'); s=p.read_text(encoding='utf-8'); s=s.replace("import course from './course.json';", "import course from './course.json';import courseBasics from './course_basics.json';"); s=s.replace('const topics=(course as any).topics;', 'const topics=(course as any).topics.map((t:any)=>(courseBasics as any).topics.find((x:any)=>x.id===t.id)||t);'); p.write_text(s,encoding='utf-8')
